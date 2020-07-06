@@ -2,7 +2,7 @@
 
 A plugin which send all your myKIA data to your MQTT.
 
-![alt text](https://github.com/peet47/hassio_kia/pic/card.png)
+![alt text](https://github.com/peet47/hassio_kia/raw/master/pic/card.png)
 
 ##  HowTo:
 
@@ -87,7 +87,7 @@ type: entities
 ```
 
 ## Device_Tracker
-![alt text](https://github.com/peet47/hassio_kia/pic/device_tracker.jpeg)
+![alt text](https://github.com/peet47/hassio_kia/raw/master/device_tracker.jpeg)
 you can even build a device tracker based on this mqtt message
 ```python
 mashina/status/Geo/location
