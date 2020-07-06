@@ -88,6 +88,7 @@ type: entities
 
 ## Device_Tracker
 ![alt text](https://github.com/peet47/hassio_kia/raw/master/pic/device_tracker.jpeg)
+
 you can even build a device tracker based on this mqtt message
 ```python
 mashina/status/Geo/location
