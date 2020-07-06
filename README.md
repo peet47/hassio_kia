@@ -25,7 +25,7 @@ cookies = {
 
 Everything done? Greate your data should now appear in the MQTT.
 
-## config.yml in Hassio
+## configuration.yaml in Hassio
 ```python
 
 #Charge Level
@@ -59,7 +59,7 @@ Everything done? Greate your data should now appear in the MQTT.
     state_topic: "mashina/status/ev/timeUntillCharged"
 ```
 
-## entitie card
+## Entities card
 
 ```python
 entities:
