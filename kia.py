@@ -34,6 +34,14 @@ cookies = {
 
 headers = {
     'Content-Length': '0',
+    'authority': 'www.kia.com',
+    'pragma': 'no-cache',
+    'cache-control': 'no-cache',
+    'dnt': '1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla / 5.0 (Linux; Android 7.0; SM-G892A Build / NRD90M; wv) AppleWebKit / 537.36 (KHTML, like Gecko) Version / 4.0 Chrome / 60.0.3112.107 Mobile Safari / 537.36 gonative',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept-language': 'de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7',
 }
 
 url = "https://www.kia.com/nl/webservices/mykia/connectedcar.asmx/GetCanbusData"
