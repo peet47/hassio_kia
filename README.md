@@ -1,3 +1,5 @@
+ Discontinued, if you search for a functional script look here https://github.com/PimDoos/kia_connect
+
 # Hassio KIA
 
 A plugin which send all your myKIA data to your MQTT.
